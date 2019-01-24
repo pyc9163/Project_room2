@@ -1,3 +1,5 @@
-variable_dropout
-PDP plot
-deep_interpretation
+- variable_dropout
+- PDP plot
+- deep_interpretation
+- Lime
+
