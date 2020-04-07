@@ -9,6 +9,6 @@
   Mean squared error loss(연속형 라벨), 예를 들어 P(y | x, w) 는 표준 편차를 가진 정규분포임을 의미한다. 
   Cross-entropy loss(분류),  P(y | x, w)는 범주현 분포이다.
   
-  이번 포스트는 TensorFlow Probability(TFP)의 Probabilistic layers를 사용 할 것이다. 이를 이용해 불확실성을 어떻게 정량하는지 보여줄 것이다.
+  TFP 섹션에서는 TensorFlow Probability(TFP)의 Probabilistic layers를 사용 할 것이다. 이를 이용해 불확실성을 어떻게 정량하는지 보여주고, 사용의 예시들을 보여줄 것이다.
 
 ![0_k-Fm4zKV1r1epmi5](https://user-images.githubusercontent.com/46980536/77918279-9cf39b80-72d6-11ea-8fb9-fbdc9908be71.gif)
